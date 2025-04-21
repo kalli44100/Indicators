@@ -17,7 +17,8 @@ Just like every other Retail Trader back then, I started out with MetaTrader4 be
 
 ### MQL5
 In MT5 I created an app to give me an overview of the entire market with every single price update. Again, I hit the limits of the platform when I got to 500 charts being open at the same time (you had to open the chart in order to receive the data) so I knew I had to migrate to another platform before long.
--> MQL5 Screenshot
+![MT5_MCEA](https://github.com/user-attachments/assets/ec9243a9-0165-4555-b77a-ea9b4be063a5)
+
 Here you can see the evolution of the above MT5 multi asset indicator in TradingView:
 This one summarises the Mag7:
 ![MCEA_Evo_MAG7](https://github.com/user-attachments/assets/75d35790-b288-4fe0-806e-02c206153e80)
