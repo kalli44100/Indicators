@@ -16,8 +16,9 @@ Just like every other Retail Trader back then, I started out with MetaTrader4 be
 ![MT4](https://github.com/user-attachments/assets/6538816c-b5ba-490f-906c-6e8be8c0e2ad)
 
 ### MQL5
-In MT5 I created an app to give me an overview of the entire market with every single price update. Again, I hit the limits of the platform when I got to 500 charts being open at the same time (you had to open the chart in order to receive the data) so I knew I had to migrate to another platform before long. FYI this indicator included all the tickers from the Dax Index (not visible here) as well as Major Indices and FX Pairs and of course the top tickers from the S&P500 and Nasdaq (until I ran out of charts).
-![MT5_MCEA](https://github.com/user-attachments/assets/ec9243a9-0165-4555-b77a-ea9b4be063a5)
+In MT5 I created an app to give me an overview of the entire market with every single price update. Again, I hit the limits of the platform when I got to 500 charts being open at the same time (you had to open the chart in order to receive the data) so I knew I had to migrate to another platform before long. This indicator included all the constituents from the Dax Index as well as Major Indices and FX Pairs and of course the top tickers from the S&P500 and Nasdaq (until I ran out of charts).
+![MT5_MCEA2](https://github.com/user-attachments/assets/580e7dcc-8e47-4ec4-a13c-5b537e8f3834)
+
 
 Here you can see the evolution of the above MT5 multi asset indicator in TradingView:
 This one summarises the Mag7:
